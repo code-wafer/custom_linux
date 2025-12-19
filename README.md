@@ -1,3 +1,4 @@
+![CodeWafer Banner](https://codewafer.com/wp-content/uploads/2025/12/codewafer-logo.png)
 # Custom Minimal Linux OS
 
 This project is a bare-minimal operating system built from scratch for learning purposes.
